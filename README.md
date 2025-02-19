@@ -1,6 +1,6 @@
 # Resume Analyzer Application
 
-##Tools
+## Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F61?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-00B388?style=for-the-badge&logo=Groq&logoColor=white)
