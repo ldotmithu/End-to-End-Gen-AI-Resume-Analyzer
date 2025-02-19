@@ -21,7 +21,7 @@ from langchain.prompts import ChatPromptTemplate
 from PyPDF2 import PdfReader
 
 load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY") #api_key
 
 #llm 
 llm = ChatGroq(
