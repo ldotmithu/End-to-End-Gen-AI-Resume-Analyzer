@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-google-genai
+streamlit
+langchain-core
+python-dotenv
+sentence-transformers
+transformers
+ipykernel
+pypdf
+huggingface-hub
+torch
+transformers
+faiss-cpu
+langchain_groq
+streamlit
+-e . 
